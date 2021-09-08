@@ -1,0 +1,6 @@
+C:\Users\kevin\OneDrive\Documentos\Guia2.0\Ejercicio2.0\Ejercicio2.0\bin\Debug\Ejercicio2.0.exe.config
+C:\Users\kevin\OneDrive\Documentos\Guia2.0\Ejercicio2.0\Ejercicio2.0\bin\Debug\Ejercicio2.0.exe
+C:\Users\kevin\OneDrive\Documentos\Guia2.0\Ejercicio2.0\Ejercicio2.0\bin\Debug\Ejercicio2.0.pdb
+C:\Users\kevin\OneDrive\Documentos\Guia2.0\Ejercicio2.0\Ejercicio2.0\obj\Debug\Ejercicio2.0.csprojResolveAssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\Guia2.0\Ejercicio2.0\Ejercicio2.0\obj\Debug\Ejercicio2.0.exe
+C:\Users\kevin\OneDrive\Documentos\Guia2.0\Ejercicio2.0\Ejercicio2.0\obj\Debug\Ejercicio2.0.pdb
